@@ -158,7 +158,7 @@ start.bat --help
 
 ## 作者
 
-[Quietpeng](https://github.com/Quietpeng)
+长沙市果垂素宇工程设计有限公司
 
 ## 许可证
 
